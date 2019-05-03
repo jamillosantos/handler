@@ -1,0 +1,7 @@
+[[constraint]]
+  name = "github.com/lab259/graphql"
+  branch = "dev"
+
+[prune]
+  go-tests = true
+  unused-packages = true
